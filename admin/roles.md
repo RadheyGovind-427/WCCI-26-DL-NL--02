@@ -1,8 +1,8 @@
-## Suyash Singh Gusain, Saara Ahmed
+## Second Year Students: Suyash Singh Gusain, Saara Ahmed
 - Run experiments
 - Modify code
 - Analyze results
-## Radhey Govind
+## First Year Students: Radhey Govind
 - Maintain documentation
 - Update daily reports
 - Track parameters & failures
